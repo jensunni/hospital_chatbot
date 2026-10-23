@@ -1,0 +1,9 @@
+nltk
+scikit-learn
+pandas
+seaborn
+matplotlib
+mysql-connector-python
+dateparser
+streamlit
+joblib
